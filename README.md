@@ -116,3 +116,5 @@ END TRACE
 3. Visit similar problems or try coding "simpler" versions of your problem to move in the right direction
 
 4. Talk out loud
+
+5. Still not working? Go for a walk LOL you're probably too tunnel visioned
